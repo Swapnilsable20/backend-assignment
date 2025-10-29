@@ -1,0 +1,22 @@
+npm run dev
+
+> backend-assignment@1.0.0 dev
+> nodemon index.js
+
+[nodemon] 3.1.10
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,cjs,json
+[nodemon] starting `node index.js`
+[dotenv@17.2.3] injecting env (3) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+🚀 Server running on port 5000
+✅ MongoDB connected
+POST /api/v1/auth/register 400 23.878 ms - 29
+POST /api/v1/auth/login 200 113.309 ms - 226
+POST /api/v1/tasks 201 53.114 ms - 266
+POST /api/v1/tasks 201 22.133 ms - 266
+GET /api/v1/tasks 200 14.608 ms - 475
+GET /api/v1/tasks 200 13.437 ms - 475
+GET /api/v1/tasks/6901ff2ea15db6d62f138f26 404 1.089 ms - 176
+PUT /api/v1/tasks/6901ff2ea15db6d62f138f26 200 148.378 ms - 271
+DELETE /api/v1/tasks/6901ff2ea15db6d62f138f26 200 125.219 ms - 22
