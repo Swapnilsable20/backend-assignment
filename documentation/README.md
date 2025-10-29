@@ -20,7 +20,7 @@ It includes API documentation (Thunder Client collection placeholder), a scalabi
 ## ⚙️ Setup Instructions (for evaluators)
 1. Clone the repo:
 ```bash
-git clone https://github.com/<your-username>/backend-assignment.git
+https://github.com/Swapnilsable20/backend-assignment.git
 cd backend-assignment
 ```
 
