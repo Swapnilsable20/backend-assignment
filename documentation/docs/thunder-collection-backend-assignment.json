@@ -1,0 +1,18 @@
+{
+  "collectionName": "Backend Intern Assignment API (Placeholder)",
+  "requests": [
+    {
+      "name": "Register (placeholder)",
+      "method": "POST",
+      "url": "http://localhost:5000/api/v1/auth/register",
+      "body": {
+        "type": "json",
+        "raw": {
+          "name": "Swapnil",
+          "email": "swapnil@example.com",
+          "password": "123456"
+        }
+      }
+    }
+  ]
+}
